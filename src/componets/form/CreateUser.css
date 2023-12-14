@@ -1,0 +1,19 @@
+.cardFrom{
+    border: solid 2px black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: yellowgreen;
+}
+.inpForm{
+    border: solid 2px black;
+    border-radius: 4px;
+    padding: .5rem;
+    margin: 3px;
+}
+.labelForm{
+    color: black;
+    font-weight:bolder;
+    padding: 5px;
+}

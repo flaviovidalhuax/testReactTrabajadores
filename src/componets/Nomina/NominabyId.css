@@ -1,0 +1,13 @@
+.card_main{
+    border:solid 3px black;
+    border-radius: 4px;
+    margin: 2px;
+    padding: 1rem;
+}
+.bord_data{
+    width: 500px;
+    border:solid 2px black;
+    margin: 3px;
+    padding-right: 50px;
+    padding-left: 50px;
+}

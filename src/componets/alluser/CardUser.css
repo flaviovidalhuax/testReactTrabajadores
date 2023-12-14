@@ -1,0 +1,10 @@
+.card_user{
+border:solid 3px black;
+border-radius: 1rem;
+margin: 5px;
+padding: 5px;
+
+}
+.card-AllEmpleados{
+    background-color: rgb(211, 190, 190);
+}
